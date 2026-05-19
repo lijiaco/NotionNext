@@ -114,6 +114,7 @@ export default defineConfig({
             { text: '反馈', link: '/user-guide/help/feedback' },
             { text: '旧版手册入口', link: '/user-guide/help/legacy-docs' },
             { text: 'Notion 排版示例', link: '/user-guide/notion/example-article' },
+            { text: '双语库翻译 CLI（可选）', link: '/user-guide/notion/bilingual-translator' },
             { text: '参与维护（在线站）', link: '/user-guide/maintain-docs' },
             { text: '维护工作流', link: '/user-guide/MAINTENANCE_WORKFLOW' },
             { text: '迁移索引', link: '/user-guide/ARTICLE_INDEX' }
